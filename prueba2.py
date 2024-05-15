@@ -1,0 +1,1 @@
+print("Hemos pintado la caja")
