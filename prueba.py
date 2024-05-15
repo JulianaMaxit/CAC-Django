@@ -5,3 +5,5 @@ print("Hola mundo git")
 #1: armar la caja:ok
 
 print("Hemos construido una caja de madera")
+
+print("Carlos estuvo aquí")
